@@ -1,8 +1,8 @@
 <template>
-    <p>サンプルプログラムを勉強中</p>
+    <h1>funページ</h1>
 </template>
 <style> 
-p{
+h1, p{
     text-align: center;
 }
 
